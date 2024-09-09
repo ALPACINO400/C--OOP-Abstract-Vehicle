@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\C# bootcamp\practess1\bin\Debug\net8.0\practess1.exe
+C:\Users\HP\Documents\C# bootcamp\practess1\bin\Debug\net8.0\practess1.deps.json
+C:\Users\HP\Documents\C# bootcamp\practess1\bin\Debug\net8.0\practess1.runtimeconfig.json
+C:\Users\HP\Documents\C# bootcamp\practess1\bin\Debug\net8.0\practess1.dll
+C:\Users\HP\Documents\C# bootcamp\practess1\bin\Debug\net8.0\practess1.pdb
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\practess1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\practess1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\practess1.AssemblyInfo.cs
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\practess1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\practess1.dll
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\refint\practess1.dll
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\practess1.pdb
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\practess1.genruntimeconfig.cache
+C:\Users\HP\Documents\C# bootcamp\practess1\obj\Debug\net8.0\ref\practess1.dll
